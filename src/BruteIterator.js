@@ -10,7 +10,7 @@ class BruteIterator {
         const upper = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ';
         const upper_es = 'AÁBCDEÉFGHIÍJKLMNÑOÓPQRSTUÚVWXYZ';
         const numbers = '0123456789';
-        const specials = '-_.:,;\\/=()&\'"?¿!¡+*@#$%[]{}^`';
+        const specials = '-_.:,;\\/=()&\'"?¿!¡+*@#$%[]{}^` \t';
 
         this.templates = {
             'letters': `${lower}${upper}`,

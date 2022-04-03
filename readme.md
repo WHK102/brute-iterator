@@ -54,35 +54,35 @@ uuuu
 
 ## Templates
 
-| Name                                | Value                                                                                                          |
-|-------------------------------------|----------------------------------------------------------------------------------------------------------------|
-| `letters`                           | ``abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ``                                                       |
-| `letters:es`                        | ``aábcdeéfghiíjklmnñoópqrstuúvwxyzAÁBCDEÉFGHIÍJKLMNÑOÓPQRSTUÚVWXYZ``                                           |
-| `letters:lower`                     | ``abcdefghijklmnopqrstuvwxyz``                                                                                 |
-| `letters:lower:es`                  | ``aábcdeéfghiíjklmnñoópqrstuúvwxyz``                                                                           |
-| `letters:upper`                     | ``ABCDEFGHIJKLMNOPQRSTUVWXYZ``                                                                                 |
-| `letters:upper:es`                  | ``AÁBCDEÉFGHIÍJKLMNÑOÓPQRSTUÚVWXYZ``                                                                           |
-| `numbers`                           | ``0123456789``                                                                                                 |
-| `letters:numbers`                   | ``abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789``                                             |
-| `letters:numbers:es`                | ``aábcdeéfghiíjklmnñoópqrstuúvwxyzAÁBCDEÉFGHIÍJKLMNÑOÓPQRSTUÚVWXYZ0123456789``                                 |
-| `letters:numbers:lower`             | ``abcdefghijklmnopqrstuvwxyz0123456789``                                                                       |
-| `letters:numbers:lower:es`          | ``aábcdeéfghiíjklmnñoópqrstuúvwxyz0123456789``                                                                 |
-| `letters:numbers:upper`             | ``ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789``                                                                       |
-| `letters:numbers:upper:es`          | ``AÁBCDEÉFGHIÍJKLMNÑOÓPQRSTUÚVWXYZ0123456789``                                                                 |
-| `specials`                          | ``-_.:,;\\/=()&\'"?¿!¡+*@#$%[]{}^```                                                                           |
-| `letters:specials`                  | ``abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ-_.:,;\\/=()&\'"?¿!¡+*@#$%[]{}^```                       |
-| `letters:specials:es`               | ``aábcdeéfghiíjklmnñoópqrstuúvwxyzAÁBCDEÉFGHIÍJKLMNÑOÓPQRSTUÚVWXYZ-_.:,;\\/=()&\'"?¿!¡+*@#$%[]{}^```           |
-| `letters:specials:lower`            | ``abcdefghijklmnopqrstuvwxyz-_.:,;\\/=()&\'"?¿!¡+*@#$%[]{}^```                                                 |
-| `letters:specials:lower:es`         | ``aábcdeéfghiíjklmnñoópqrstuúvwxyz-_.:,;\\/=()&\'"?¿!¡+*@#$%[]{}^```                                           |
-| `letters:specials:upper`            | ``ABCDEFGHIJKLMNOPQRSTUVWXYZ-_.:,;\\/=()&\'"?¿!¡+*@#$%[]{}^```                                                 |
-| `letters:specials:upper:es`         | ``AÁBCDEÉFGHIÍJKLMNÑOÓPQRSTUÚVWXYZ-_.:,;\\/=()&\'"?¿!¡+*@#$%[]{}^```                                           |
-| `letters:numbers:specials`          | ``abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789-_.:,;\\/=()&\'"?¿!¡+*@#$%[]{}^```             |
-| `letters:numbers:specials:es`       | ``aábcdeéfghiíjklmnñoópqrstuúvwxyzAÁBCDEÉFGHIÍJKLMNÑOÓPQRSTUÚVWXYZ0123456789-_.:,;\\/=()&\'"?¿!¡+*@#$%[]{}^``` |
-| `letters:numbers:specials:upper`    | ``ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789-_.:,;\\/=()&\'"?¿!¡+*@#$%[]{}^```                                       |
-| `letters:numbers:specials:upper:es` | ``AÁBCDEÉFGHIÍJKLMNÑOÓPQRSTUÚVWXYZ0123456789-_.:,;\\/=()&\'"?¿!¡+*@#$%[]{}^```                                 |
-| `letters:numbers:specials:lower`    | ``abcdefghijklmnopqrstuvwxyz0123456789-_.:,;\\/=()&\'"?¿!¡+*@#$%[]{}^```                                       |
-| `letters:numbers:specials:lower:es` | ``aábcdeéfghiíjklmnñoópqrstuúvwxyz0123456789-_.:,;\\/=()&\'"?¿!¡+*@#$%[]{}^```                                 |
-| `numbers:specials`                  | ``0123456789-_.:,;\\/=()&\'"?¿!¡+*@#$%[]{}^```                                                                 |
+| Name                                | Value                                                                                                             |
+|-------------------------------------|-------------------------------------------------------------------------------------------------------------------|
+| `letters`                           | ``abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ``                                                          |
+| `letters:es`                        | ``aábcdeéfghiíjklmnñoópqrstuúvwxyzAÁBCDEÉFGHIÍJKLMNÑOÓPQRSTUÚVWXYZ``                                              |
+| `letters:lower`                     | ``abcdefghijklmnopqrstuvwxyz``                                                                                    |
+| `letters:lower:es`                  | ``aábcdeéfghiíjklmnñoópqrstuúvwxyz``                                                                              |
+| `letters:upper`                     | ``ABCDEFGHIJKLMNOPQRSTUVWXYZ``                                                                                    |
+| `letters:upper:es`                  | ``AÁBCDEÉFGHIÍJKLMNÑOÓPQRSTUÚVWXYZ``                                                                              |
+| `numbers`                           | ``0123456789``                                                                                                    |
+| `letters:numbers`                   | ``abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789``                                                |
+| `letters:numbers:es`                | ``aábcdeéfghiíjklmnñoópqrstuúvwxyzAÁBCDEÉFGHIÍJKLMNÑOÓPQRSTUÚVWXYZ0123456789``                                    |
+| `letters:numbers:lower`             | ``abcdefghijklmnopqrstuvwxyz0123456789``                                                                          |
+| `letters:numbers:lower:es`          | ``aábcdeéfghiíjklmnñoópqrstuúvwxyz0123456789``                                                                    |
+| `letters:numbers:upper`             | ``ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789``                                                                          |
+| `letters:numbers:upper:es`          | ``AÁBCDEÉFGHIÍJKLMNÑOÓPQRSTUÚVWXYZ0123456789``                                                                    |
+| `specials`                          | ``-_.:,;\\/=()&\'"?¿!¡+*@#$%[]{}^` \t``                                                                           |
+| `letters:specials`                  | ``abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ-_.:,;\\/=()&\'"?¿!¡+*@#$%[]{}^` \t``                       |
+| `letters:specials:es`               | ``aábcdeéfghiíjklmnñoópqrstuúvwxyzAÁBCDEÉFGHIÍJKLMNÑOÓPQRSTUÚVWXYZ-_.:,;\\/=()&\'"?¿!¡+*@#$%[]{}^` \t``           |
+| `letters:specials:lower`            | ``abcdefghijklmnopqrstuvwxyz-_.:,;\\/=()&\'"?¿!¡+*@#$%[]{}^` \t``                                                 |
+| `letters:specials:lower:es`         | ``aábcdeéfghiíjklmnñoópqrstuúvwxyz-_.:,;\\/=()&\'"?¿!¡+*@#$%[]{}^` \t``                                           |
+| `letters:specials:upper`            | ``ABCDEFGHIJKLMNOPQRSTUVWXYZ-_.:,;\\/=()&\'"?¿!¡+*@#$%[]{}^` \t``                                                 |
+| `letters:specials:upper:es`         | ``AÁBCDEÉFGHIÍJKLMNÑOÓPQRSTUÚVWXYZ-_.:,;\\/=()&\'"?¿!¡+*@#$%[]{}^` \t``                                           |
+| `letters:numbers:specials`          | ``abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789-_.:,;\\/=()&\'"?¿!¡+*@#$%[]{}^` \t``             |
+| `letters:numbers:specials:es`       | ``aábcdeéfghiíjklmnñoópqrstuúvwxyzAÁBCDEÉFGHIÍJKLMNÑOÓPQRSTUÚVWXYZ0123456789-_.:,;\\/=()&\'"?¿!¡+*@#$%[]{}^` \t`` |
+| `letters:numbers:specials:upper`    | ``ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789-_.:,;\\/=()&\'"?¿!¡+*@#$%[]{}^` \t``                                       |
+| `letters:numbers:specials:upper:es` | ``AÁBCDEÉFGHIÍJKLMNÑOÓPQRSTUÚVWXYZ0123456789-_.:,;\\/=()&\'"?¿!¡+*@#$%[]{}^` \t``                                 |
+| `letters:numbers:specials:lower`    | ``abcdefghijklmnopqrstuvwxyz0123456789-_.:,;\\/=()&\'"?¿!¡+*@#$%[]{}^` \t``                                       |
+| `letters:numbers:specials:lower:es` | ``aábcdeéfghiíjklmnñoópqrstuúvwxyz0123456789-_.:,;\\/=()&\'"?¿!¡+*@#$%[]{}^` \t``                                 |
+| `numbers:specials`                  | ``0123456789-_.:,;\\/=()&\'"?¿!¡+*@#$%[]{}^```                                                                    |
 
 
 ### Use custom charsacters with template
