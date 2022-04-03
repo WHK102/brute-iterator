@@ -1,7 +1,14 @@
 {
   "name": "brute-iterator",
-  "version": "0.8.2-alpha",
+  "version": "0.8.3-alpha",
   "description": "Words and object iterator",
+  "keywords": [
+      "dictionary",
+      "iteration",
+      "iterator",
+      "red-team",
+      "brute-force"
+  ],
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
