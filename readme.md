@@ -95,3 +95,10 @@ iterator
     .words({ template: 'numbers:specials', characters: 'aeiou' })
     .forEach(word => console.log(word));
 ```
+
+
+## Support
+
+This software is free and its source code is totally free for you to use and learn. Support the creator.
+
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate/?hosted_button_id=KM2KBE8F982KS)
