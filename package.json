@@ -1,0 +1,26 @@
+{
+  "name": "brute-iterator",
+  "version": "0.8.2-alpha",
+  "description": "Words and object iterator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WHK102/brute-iterator.git"
+  },
+  "author": {
+    "name": "Yhojann Aguilera",
+    "email": "yhojann.aguilera@gmail.com",
+    "url": "https://yhojann.cl/"
+  },
+  "license": "GNU GPL V2",
+  "engines": {
+      "node": ">=16.14.2"
+  },
+  "bugs": {
+    "url": "https://github.com/WHK102/brute-iterator/issues"
+  },
+  "homepage": "https://github.com/WHK102/brute-iterator#readme"
+}
