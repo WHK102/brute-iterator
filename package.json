@@ -1,6 +1,6 @@
 {
   "name": "brute-iterator",
-  "version": "0.8.3-alpha",
+  "version": "0.8.4-alpha",
   "description": "Words and object iterator",
   "keywords": [
       "dictionary",
@@ -27,7 +27,7 @@
       "node": ">=16.14.2"
   },
   "bugs": {
-    "url": "https://github.com/WHK102/brute-iterator/issues"
+    "url": "https://github.com/yhojann-cl/brute-iterator/issues"
   },
-  "homepage": "https://github.com/WHK102/brute-iterator#readme"
+  "homepage": "https://github.com/yhojann-cl/brute-iterator#readme"
 }
