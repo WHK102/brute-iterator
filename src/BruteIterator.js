@@ -6,9 +6,9 @@ class BruteIterator {
 
     constructor() {
         const lower = 'abcdefghijklmnopqrstuvwxyz';
-        const lower_es = 'aábcdeéfghiíjklmnñoópqrstuúvwxyz';
+        const lower_es = 'aábcdeéfghiíjklmnñoópqrstuúüvwxyz';
         const upper = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ';
-        const upper_es = 'AÁBCDEÉFGHIÍJKLMNÑOÓPQRSTUÚVWXYZ';
+        const upper_es = 'AÁBCDEÉFGHIÍJKLMNÑOÓPQRSTUÚÜVWXYZ';
         const numbers = '0123456789';
         const specials = '-_.:,;\\/=()&\'"?¿!¡+*@#$%[]{}^` \t';
 
