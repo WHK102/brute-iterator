@@ -82,7 +82,7 @@ uuuu
 | `letters:numbers:specials:upper:es` | ``AÁBCDEÉFGHIÍJKLMNÑOÓPQRSTUÚVWXYZ0123456789-_.:,;\\/=()&\'"?¿!¡+*@#$%[]{}^` \t``                                 |
 | `letters:numbers:specials:lower`    | ``abcdefghijklmnopqrstuvwxyz0123456789-_.:,;\\/=()&\'"?¿!¡+*@#$%[]{}^` \t``                                       |
 | `letters:numbers:specials:lower:es` | ``aábcdeéfghiíjklmnñoópqrstuúvwxyz0123456789-_.:,;\\/=()&\'"?¿!¡+*@#$%[]{}^` \t``                                 |
-| `numbers:specials`                  | ``0123456789-_.:,;\\/=()&\'"?¿!¡+*@#$%[]{}^```                                                                    |
+| `numbers:specials`                  | ``0123456789-_.:,;\\/=()&\'"?¿!¡+*@#$%[]{}^` \t``                                                                    |
 
 
 ### Use custom charsacters with template
